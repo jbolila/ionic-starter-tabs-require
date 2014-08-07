@@ -2,6 +2,14 @@
 
 [Getting Started with Ionic](http://ionicframework.com/getting-started/), one nice way to generate beautiful mobile App's with Cordova (aka PhoneGap) and AngularJS.
 
+To see in a regular browser:
+
+```
+ionic serve
+```
+
+!! To run on a iOS emulator
+
 Please add the plugins:
 
 ```
